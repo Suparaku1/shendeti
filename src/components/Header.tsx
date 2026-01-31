@@ -25,7 +25,7 @@ export function Header({ onSettingsClick, onHistoryClick }: HeaderProps) {
             <Heart className="h-5 w-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-foreground">Këshilluesi nga Shpë</h1>
+            <h1 className="text-xl font-bold text-foreground">Këshilluesi nga Shpe</h1>
             <p className="text-xs text-muted-foreground">Këshilla shëndetësore</p>
           </div>
         </motion.div>
